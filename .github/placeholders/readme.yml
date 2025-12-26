@@ -1,0 +1,12 @@
+REPO_TAGLINE: Economic principles • markets • decision theory
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: tender
+SITE_URL: https://academic-codex.github.io/SEP0587-Principios-de-Economia
+
+BG_1: "#1A120E"
+BG_2: "#3A2A1B"
+TEXT_MAIN: "#FFF4E5"
+TEXT_MUTED: "#D1BFA3"
+ACCENT: "#F59E0B"
+CARD_RADIUS: "18"
