@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SEP0587-Principios-de-Economia">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:56.857626Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:34:58.325076Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
